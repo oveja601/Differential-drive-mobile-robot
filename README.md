@@ -1,5 +1,5 @@
-# Differential-Drive Mobile-robot
-Differential-drive robot with DC motor control and embedded navigation.
+# Differential-Drive Mobile Robot
+Differential-drive mobile robot featuring autonomous navigation and line-following control using embedded systems programming.
 
 ## Overview
 
