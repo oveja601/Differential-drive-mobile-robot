@@ -2,15 +2,33 @@
 Differential-drive robot with DC motor control and embedded navigation.
 
 ## Overview
-Designed and implemented a differential-drive wheeled robot controlled by two DC motors. The project focused on motor driving, forward motion control, left/right turning, and basic robot navigation logic.
+
+Designed and implemented a differential-drive mobile robot controlled by two DC motors using an AVR ATmega328P microcontroller. The project focused on embedded motor control, robot steering, and autonomous navigation algorithms.
+
+The robot supports two navigation modes:
+
+- **Basic Navigation Mode**  
+  The robot autonomously navigates around a predefined rectangular path using timed motion control and turning sequences.
+
+- **Advanced Line-Following Mode**  
+  The robot utilizes infrared sensors to detect and follow a predefined track, demonstrating real-time sensor feedback and motion correction.
 
 The robot was programmed to navigate around a predefined rectangular field while maintaining stable movement and directional control. Through this project, I learned embedded system programming, DC motor control, and fundamental mobile robot navigation concepts.
 
 ## Demo
 
 Click the image above to watch the demo video!
+
+### Basic Navigation Mode
 <p align="center">
   <a href="https://drive.google.com/file/d/1E_J3dIohsi-GpMVY-oG9z74lT1Zbexfk/view?usp=drive_link">
+    <img src="images/demo1.png" width="700">
+  </a>
+</p>
+
+### Advanced Line-Following Mode
+<p align="center">
+  <a href="https://drive.google.com/file/d/11LNg1B_T8BMvo-FhyoWwXaVYVA8_kbn9/view?usp=sharing">
     <img src="images/demo.png" width="700">
   </a>
 </p>
