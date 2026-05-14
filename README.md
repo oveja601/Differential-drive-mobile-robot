@@ -65,6 +65,6 @@ control the other DC motor.
 The complete embedded control program is available in the `src/` directory.
 
 ## Technologies Used
-- C++ / Arduino
+- AVR C
 - Embedded Programming
 - Robot Navigation Logic
