@@ -43,6 +43,7 @@ control the other DC motor.
 <img width="562" height="240" alt="image" src="https://github.com/user-attachments/assets/77904524-ee3a-474d-bcfe-812558550793" />
 </p>
 
+The complete embedded control program is available in the `src/` directory.
 
 ## Technologies Used
 - C++ / Arduino
