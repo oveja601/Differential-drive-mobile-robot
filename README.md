@@ -44,6 +44,7 @@ Click the image above to watch the demo video!
 - H-Bridge Motor Driver Board
 - Two-Wheel Robot Chassis
 - DC Motors
+- Infrared line tracking sensor
 
 ## Hardware Setup
 <p align="center">
