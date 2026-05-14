@@ -7,7 +7,13 @@ Designed and implemented a differential-drive wheeled robot controlled by two DC
 The robot was programmed to navigate around a predefined rectangular field while maintaining stable movement and directional control. Through this project, I learned embedded system programming, DC motor control, and fundamental mobile robot navigation concepts.
 
 ## Demo
+<p align="center">
+  <a href="https://drive.google.com/file/d/1E_J3dIohsi-GpMVY-oG9z74lT1Zbexfk/view?usp=drive_link">
+    <img src="images/demo.png" width="700">
+  </a>
+</p>
 
+Click the image above to watch the demo video.
 ## Key Features
 - DC motor control
 - Differential-drive robot design
