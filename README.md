@@ -29,7 +29,7 @@ Click the image above to watch the demo video!
 ### Advanced Line-Following Mode
 <p align="center">
   <a href="https://drive.google.com/file/d/11LNg1B_T8BMvo-FhyoWwXaVYVA8_kbn9/view?usp=sharing">
-    <img src="images/demo.png" width="700">
+    <img src="images/demo2.png" width="700">
   </a>
 </p>
 
